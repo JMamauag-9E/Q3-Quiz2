@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://i.gifer.com/origin/98/982a4c3a9f8ca83c675d3b8d038b8550.gif");
+	background-size: cover;
+}	
+
+h1 {
+	text-align: center;
+}
+
+.container {
+
+}
+
+#container-ticket {
+	background: linear-gradient(#8000ff, #9740c2);
+	border: 5px solid #000000;
+}
+
+#container-ticket td {
+	text-align: center;
+	background-color: #df7ee6;
+}
